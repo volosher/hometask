@@ -20,6 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -56,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580288058922</updated>
       <workItem from="1580288060625" duration="2091000" />
+      <workItem from="1580292832144" duration="369000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,9 @@
 h1 {
     text-align: center;
     color: red;
+    text-decoration-style: solid;
+    text-shadow: red;
+
 }
 
 .maininfo {
